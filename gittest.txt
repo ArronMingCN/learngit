@@ -1,3 +1,5 @@
 this is a git version control test
 
-git is free software
+it is free software
+
+now i add something
