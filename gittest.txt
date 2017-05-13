@@ -11,3 +11,5 @@ add3
 2017-5-13
 add one
 modify test
+
+git reset head
